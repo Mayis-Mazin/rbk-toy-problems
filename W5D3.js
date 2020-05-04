@@ -81,5 +81,4 @@ function orderAVegetarianDish(people) {
         if (person.mealPreferences === "non-vegetarian")
             return false
     })
-    return true
 }
